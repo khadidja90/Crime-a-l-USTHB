@@ -34,6 +34,61 @@ L'ensemble des modèles 3D et des éléments visuels a été réalisé avec **Bl
 - Gestion des interactions et événements.
 - Conception de mécaniques de gameplay.
 
+## Galerie
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/01-menu-principal.jpg" width="400"/><br/>
+      <sub>Menu principal</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/02-dialogue-suspects.jpg" width="400"/><br/>
+      <sub>Dialogue avec les suspects</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/03-scene-de-crime.jpg" width="400"/><br/>
+      <sub>Scène de crime</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/04-authentification-pc.jpg" width="400"/><br/>
+      <sub>Authentification sur un ordinateur</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/05-registre-entree.jpg" width="400"/><br/>
+      <sub>Registre d'entrée, un indice à analyser</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/06-hall-entree.jpg" width="400"/><br/>
+      <sub>Hall d'entrée du bâtiment</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/07-note-rendez-vous.jpg" width="400"/><br/>
+      <sub>Note trouvée pendant l'enquête</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/08-salle-informatique.jpg" width="400"/><br/>
+      <sub>Salle informatique</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/09-salle-de-classe.jpg" width="400"/><br/>
+      <sub>Salle de classe</sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/10-campus-exterieur.jpg" width="400"/><br/>
+      <sub>Extérieur du campus</sub>
+    </td>
+  </tr>
+</table>
+
 ## Aperçu du projet
 
 Le projet est disponible via le lien suivant :
