@@ -91,7 +91,7 @@ L'ensemble des modèles 3D et des éléments visuels a été réalisé avec **Bl
 
 ## Aperçu du projet
 
-Le projet est disponible via le lien suivant :
+Le demo de projet est disponible via le lien suivant :
 
 📂 https://drive.google.com/drive/folders/1UWAdA9ZhEsfl-S6N9jCoHgZmjT4SK01c?usp=sharing
 
