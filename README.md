@@ -97,4 +97,5 @@ Le projet est disponible via le lien suivant :
 
 ## Auteur
 
-Projet réalisé dans le cadre d'un parcours universitaire à l'USTHB.
+Projet réalisé dans le cadre d'un parcours universitaire à l'USTHB par Djaoud Khadidja et Gharbi Feriel
+
